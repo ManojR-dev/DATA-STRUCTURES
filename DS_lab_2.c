@@ -61,3 +61,25 @@ int main() {
     }
     return 0;
 }
+
+OUTPUT:-
+
+Enter rows and columns: 3 3
+Enter matrix elements:
+1 0 0
+0 2 0
+3 0 4
+
+Triplet Representation:
+3 3 4
+0 0 1
+1 1 2
+2 0 3
+2 2 4
+
+Transpose Triplet:
+3 3 4
+0 0 1
+0 2 3
+1 1 2
+2 2 4
