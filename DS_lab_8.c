@@ -88,3 +88,18 @@ int main()
 
     return 0;
 }
+
+OUTPUT:-
+
+30 inserted
+10 inserted
+50 inserted
+20 inserted
+
+Priority Queue Elements:
+10 20 30 50
+
+10 deleted
+
+Priority Queue Elements:
+20 30 50
