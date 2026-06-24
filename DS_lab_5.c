@@ -78,3 +78,8 @@ int main()
 
     return 0;
 }
+
+OUTPUT:-
+
+Enter postfix expression: 23+5*
+Result = 25
