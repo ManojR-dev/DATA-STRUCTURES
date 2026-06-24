@@ -119,3 +119,15 @@ int main()
     return 0;
 }
 
+OUTPUT:-
+
+Enter number of vertices: 4
+Enter number of edges: 4
+Enter edge (source destination): 0 1
+Enter edge (source destination): 0 2
+Enter edge (source destination): 1 2
+Enter edge (source destination): 2 3
+Enter starting vertex: 0
+
+BFS Traversal: 0 1 2 3
+DFS Traversal: 0 1 2 3
