@@ -152,3 +152,15 @@ int main() {
 
     return 0;
 }
+
+OUTPUT-
+
+--- Stack Menu ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter your choice: 1
+Enter value: 10
+10 pushed to stack
