@@ -65,3 +65,80 @@ int main() {
     return 0;
 }
 
+OUTPUT:-
+
+Enter number of elements: 5
+Enter elements:
+10 20 30 40 50
+
+--- MENU ---
+1. Traversal
+2. Insertion
+3. Deletion
+4. Searching
+5. Exit
+Enter your choice: 1
+
+Array elements are: 10 20 30 40 50
+
+--- MENU ---
+1. Traversal
+2. Insertion
+3. Deletion
+4. Searching
+5. Exit
+Enter your choice: 2
+
+Enter position and value: 3 25
+
+--- MENU ---
+1. Traversal
+2. Insertion
+3. Deletion
+4. Searching
+5. Exit
+Enter your choice: 1
+
+Array elements are: 10 20 25 30 40 50
+
+--- MENU ---
+1. Traversal
+2. Insertion
+3. Deletion
+4. Searching
+5. Exit
+Enter your choice: 3
+
+Enter position to delete: 4
+
+--- MENU ---
+1. Traversal
+2. Insertion
+3. Deletion
+4. Searching
+5. Exit
+Enter your choice: 1
+
+Array elements are: 10 20 25 40 50
+
+--- MENU ---
+1. Traversal
+2. Insertion
+3. Deletion
+4. Searching
+5. Exit
+Enter your choice: 4
+
+Enter element to search: 40
+Element found at position 4
+
+--- MENU ---
+1. Traversal
+2. Insertion
+3. Deletion
+4. Searching
+5. Exit
+Enter your choice: 5
+
+Exiting...
+
