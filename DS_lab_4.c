@@ -97,3 +97,8 @@ int main() {
     printf("Postfix expression: %s\n", postfix);
     return 0;
 }
+
+OUTPUT:-
+
+Enter an infix expression: A+B*C
+Postfix expression: ABC*+
