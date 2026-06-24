@@ -52,3 +52,18 @@ int main()
     return 0;
 }
 
+OUTPUT:-
+
+Enter number of vertices: 4
+Enter number of edges: 4
+Enter edge (source destination): 0 1
+Enter edge (source destination): 0 2
+Enter edge (source destination): 1 2
+Enter edge (source destination): 2 3
+
+Adjacency Matrix:
+0 1 1 0
+1 0 1 0
+1 1 0 1
+0 0 1 0
+
