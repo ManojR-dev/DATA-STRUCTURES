@@ -99,3 +99,17 @@ int main()
 
     return 0;
 }
+
+OUTPUT:-
+
+10 inserted
+20 inserted
+30 inserted
+
+Queue Elements:
+10 20 30
+
+10 deleted
+
+Queue Elements:
+20 30
